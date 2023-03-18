@@ -71,7 +71,7 @@ Também aprendi formas de animação com o css, apenas usando o rotate em alguns
 ## Autor
 
 - Frontend Mentor - [@Robson-Jorge](https://www.frontendmentor.io/profile/Robson-Jorge)
-- Linkedin - [@Robson-Jorge](https://www.linkedin.com/Robson-Jorge)
+- Linkedin - [@Robson-Jorge](https://www.linkedin.com/in/robson-jorge-62a12a26a/)
 
 ## Agradecimentos
 
